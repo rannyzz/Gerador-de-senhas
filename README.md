@@ -1,2 +1,2 @@
 # Gerador-de-senhas
-Um criador de senhas editável por tamanho e quais caracteres você deseja
+Um gerador de senhas na qual você pode definir desde quantos caracteres sua senha vai ter, até quais tipos de caracteres, maiúsculos, minúsculos, símbolos e números.
